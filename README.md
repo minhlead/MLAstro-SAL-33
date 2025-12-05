@@ -1,6 +1,6 @@
 MLAStro SAL-33 OnStepX firmware.
 ===========================
-# What is fork?
+# What is this fork?
 This is the fork that carries the official firmware and all the modification to the OnStepX firmware that is currently on the MLAstro SAL-33 harmonic mount. You can use this fork to reflash your SAL-33 mount and customize it anyway you like.
 For the MLAstro SAL-33 Smart Web Server (SWS) firmware, please see this.
 https://github.com/minhlead/MLAstro-SAL-33-SWS 
