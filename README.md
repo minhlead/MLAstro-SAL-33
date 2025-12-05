@@ -8,6 +8,9 @@ https://github.com/minhlead/MLAstro-SAL-33-SWS
 # Will reflashing this firmware void my mount warranty?
 For maximum compatibility and reliability, please stick with the stock configuration. If you modify the firmware and brick the mount, it will void your warranty. In short, only make changes if you truly know what you’re doing. Open source is powerful, but it should be used with care. Please contact us before doing any tinkering, we are here to help you and only reflash the firmware if you are instructed directly by MLAstro.
 
+# Will reflashing this firmware void my mount warranty?
+For maximum compatibility and reliability, please stick with the stock configuration. If you modify the firmware and brick the mount, it will void your warranty. In short, only make changes if you truly know what you’re doing. Open source is powerful, but it should be used with care. Please contact us before doing any tinkering, we are here to help you and only reflash the firmware if you are instructed directly by MLAstro.
+
 
 # What is OnStepX?
 OnStepX is the advanced version of the OnStep computerized telescope controller with support for interfacing with/controlling a variety of motor drivers (and so motors) including Step/Dir, ODrive, and Servo (a combination of encoder and DC motor or Stepper motor) types.
