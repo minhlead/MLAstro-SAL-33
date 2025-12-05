@@ -1,5 +1,9 @@
-OnStepX Telescope Controller
+MLAStro SAL-33 OnStepX firmware.
 ===========================
+# What is fork?
+This is the fork that carries the official firmware and all the modification to the OnStepX firmware that is currently on the MLAstro SAL-33 harmonic mount. You can use this fork to reflash your SAL-33 mount and customize it anyway you like.
+For the MLAstro SAL-33 Smart Web Server (SWS) firmware, please see this.
+https://github.com/minhlead/MLAstro-SAL-33-SWS 
 
 # What is OnStepX?
 OnStepX is the advanced version of the OnStep computerized telescope controller with support for interfacing with/controlling a variety of motor drivers (and so motors) including Step/Dir, ODrive, and Servo (a combination of encoder and DC motor or Stepper motor) types.
