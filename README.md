@@ -6,7 +6,7 @@ For the MLAstro SAL-33 Smart Web Server (SWS) firmware, please see this.
 https://github.com/minhlead/MLAstro-SAL-33-SWS 
 
 # Will reflashing this firmware void my mount warranty?
-Not if you stay with the stock configuration. For maximum compatibility and reliability, please stick with the stock configuration. If you modify the firmware and brick the mount, it will void your warranty. In short, only make changes if you truly know what you’re doing. Open source is powerful, but it should be used with care. Please contact us before doing any tinkering, we are here to help you and only reflash the firmware if you are instructed directly by MLAstro.
+For maximum compatibility and reliability, please stick with the stock configuration. If you modify the firmware and brick the mount, it will void your warranty. In short, only make changes if you truly know what you’re doing. Open source is powerful, but it should be used with care. Please contact us before doing any tinkering, we are here to help you and only reflash the firmware if you are instructed directly by MLAstro.
 
 
 # What is OnStepX?
